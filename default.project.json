@@ -1,5 +1,5 @@
 {
-  "name": "RobloxProjects",
+  "name": "LuauLearning",
   "tree": {
     "$className": "DataModel",
 
@@ -7,6 +7,10 @@
       "Shared": {
         "$path": "src/shared"
       }
+    },
+    
+    "Packages": {
+      "$path": "Packages"
     },
 
     "ServerScriptService": {
